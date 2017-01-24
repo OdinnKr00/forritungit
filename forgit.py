@@ -10,7 +10,7 @@ print("Halló",fornafn,eftirnafn)
 
 
 #Dæmi 1
-
+#Fær tölur og birtir summu og margfeldi þeirra
 tala1=int(input("Sláðu inn tölu"))
 tala2=int(input("Sláðu inn aðra tölu"))
 utkoma1=tala1+tala2
